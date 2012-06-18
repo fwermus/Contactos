@@ -1,0 +1,13 @@
+Contactos
+
+
+Lista de contactos editable
+
+
+Esta lista de contactos no considera paginación de información
+No usa métodos/atributos estáticos
+No usa CompoundPropertyModel
+
+para ejecutar Contactos
+mvn jetty:run
+abrir en un browser localhost:8080
